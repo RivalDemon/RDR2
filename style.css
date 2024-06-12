@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: rgb(231, 147, 50);
+}
+h1{
+    color: rgb(117, 5, 5);
+    font-family: fantasy;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(58, 8, 8);
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(89, 0, 255);
+}
